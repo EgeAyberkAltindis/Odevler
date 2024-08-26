@@ -1,0 +1,14 @@
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Dr_Secim\CA_Dr_Secim\bin\Debug\net7.0\CA_Dr_Secim.exe
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Dr_Secim\CA_Dr_Secim\bin\Debug\net7.0\CA_Dr_Secim.deps.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Dr_Secim\CA_Dr_Secim\bin\Debug\net7.0\CA_Dr_Secim.runtimeconfig.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Dr_Secim\CA_Dr_Secim\bin\Debug\net7.0\CA_Dr_Secim.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Dr_Secim\CA_Dr_Secim\bin\Debug\net7.0\CA_Dr_Secim.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Dr_Secim\CA_Dr_Secim\obj\Debug\net7.0\CA_Dr_Secim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Dr_Secim\CA_Dr_Secim\obj\Debug\net7.0\CA_Dr_Secim.AssemblyInfoInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Dr_Secim\CA_Dr_Secim\obj\Debug\net7.0\CA_Dr_Secim.AssemblyInfo.cs
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Dr_Secim\CA_Dr_Secim\obj\Debug\net7.0\CA_Dr_Secim.csproj.CoreCompileInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Dr_Secim\CA_Dr_Secim\obj\Debug\net7.0\CA_Dr_Secim.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Dr_Secim\CA_Dr_Secim\obj\Debug\net7.0\refint\CA_Dr_Secim.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Dr_Secim\CA_Dr_Secim\obj\Debug\net7.0\CA_Dr_Secim.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Dr_Secim\CA_Dr_Secim\obj\Debug\net7.0\CA_Dr_Secim.genruntimeconfig.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Dr_Secim\CA_Dr_Secim\obj\Debug\net7.0\ref\CA_Dr_Secim.dll

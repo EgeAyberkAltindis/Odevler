@@ -1,0 +1,14 @@
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_TahminOyunu\CA_TahminOyunu\bin\Debug\net7.0\CA_TahminOyunu.exe
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_TahminOyunu\CA_TahminOyunu\bin\Debug\net7.0\CA_TahminOyunu.deps.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_TahminOyunu\CA_TahminOyunu\bin\Debug\net7.0\CA_TahminOyunu.runtimeconfig.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_TahminOyunu\CA_TahminOyunu\bin\Debug\net7.0\CA_TahminOyunu.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_TahminOyunu\CA_TahminOyunu\bin\Debug\net7.0\CA_TahminOyunu.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_TahminOyunu\CA_TahminOyunu\obj\Debug\net7.0\CA_TahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_TahminOyunu\CA_TahminOyunu\obj\Debug\net7.0\CA_TahminOyunu.AssemblyInfoInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_TahminOyunu\CA_TahminOyunu\obj\Debug\net7.0\CA_TahminOyunu.AssemblyInfo.cs
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_TahminOyunu\CA_TahminOyunu\obj\Debug\net7.0\CA_TahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_TahminOyunu\CA_TahminOyunu\obj\Debug\net7.0\CA_TahminOyunu.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_TahminOyunu\CA_TahminOyunu\obj\Debug\net7.0\refint\CA_TahminOyunu.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_TahminOyunu\CA_TahminOyunu\obj\Debug\net7.0\CA_TahminOyunu.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_TahminOyunu\CA_TahminOyunu\obj\Debug\net7.0\CA_TahminOyunu.genruntimeconfig.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_TahminOyunu\CA_TahminOyunu\obj\Debug\net7.0\ref\CA_TahminOyunu.dll

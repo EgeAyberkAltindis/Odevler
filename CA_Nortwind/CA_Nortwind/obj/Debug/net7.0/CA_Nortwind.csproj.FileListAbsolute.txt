@@ -1,0 +1,14 @@
+C:\Users\ayber\source\repos\CA_Nortwind\CA_Nortwind\bin\Debug\net7.0\CA_Nortwind.exe
+C:\Users\ayber\source\repos\CA_Nortwind\CA_Nortwind\bin\Debug\net7.0\CA_Nortwind.deps.json
+C:\Users\ayber\source\repos\CA_Nortwind\CA_Nortwind\bin\Debug\net7.0\CA_Nortwind.runtimeconfig.json
+C:\Users\ayber\source\repos\CA_Nortwind\CA_Nortwind\bin\Debug\net7.0\CA_Nortwind.dll
+C:\Users\ayber\source\repos\CA_Nortwind\CA_Nortwind\bin\Debug\net7.0\CA_Nortwind.pdb
+C:\Users\ayber\source\repos\CA_Nortwind\CA_Nortwind\obj\Debug\net7.0\CA_Nortwind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayber\source\repos\CA_Nortwind\CA_Nortwind\obj\Debug\net7.0\CA_Nortwind.AssemblyInfoInputs.cache
+C:\Users\ayber\source\repos\CA_Nortwind\CA_Nortwind\obj\Debug\net7.0\CA_Nortwind.AssemblyInfo.cs
+C:\Users\ayber\source\repos\CA_Nortwind\CA_Nortwind\obj\Debug\net7.0\CA_Nortwind.csproj.CoreCompileInputs.cache
+C:\Users\ayber\source\repos\CA_Nortwind\CA_Nortwind\obj\Debug\net7.0\CA_Nortwind.dll
+C:\Users\ayber\source\repos\CA_Nortwind\CA_Nortwind\obj\Debug\net7.0\refint\CA_Nortwind.dll
+C:\Users\ayber\source\repos\CA_Nortwind\CA_Nortwind\obj\Debug\net7.0\CA_Nortwind.pdb
+C:\Users\ayber\source\repos\CA_Nortwind\CA_Nortwind\obj\Debug\net7.0\CA_Nortwind.genruntimeconfig.cache
+C:\Users\ayber\source\repos\CA_Nortwind\CA_Nortwind\obj\Debug\net7.0\ref\CA_Nortwind.dll

@@ -1,0 +1,14 @@
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakıyeBarbut\CA_BakıyeBarbut\bin\Debug\net8.0\CA_BakıyeBarbut.exe
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakıyeBarbut\CA_BakıyeBarbut\bin\Debug\net8.0\CA_BakıyeBarbut.deps.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakıyeBarbut\CA_BakıyeBarbut\bin\Debug\net8.0\CA_BakıyeBarbut.runtimeconfig.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakıyeBarbut\CA_BakıyeBarbut\bin\Debug\net8.0\CA_BakıyeBarbut.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakıyeBarbut\CA_BakıyeBarbut\bin\Debug\net8.0\CA_BakıyeBarbut.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakıyeBarbut\CA_BakıyeBarbut\obj\Debug\net8.0\CA_BakıyeBarbut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakıyeBarbut\CA_BakıyeBarbut\obj\Debug\net8.0\CA_BakıyeBarbut.AssemblyInfoInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakıyeBarbut\CA_BakıyeBarbut\obj\Debug\net8.0\CA_BakıyeBarbut.AssemblyInfo.cs
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakıyeBarbut\CA_BakıyeBarbut\obj\Debug\net8.0\CA_BakıyeBarbut.csproj.CoreCompileInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakıyeBarbut\CA_BakıyeBarbut\obj\Debug\net8.0\CA_BakıyeBarbut.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakıyeBarbut\CA_BakıyeBarbut\obj\Debug\net8.0\refint\CA_BakıyeBarbut.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakıyeBarbut\CA_BakıyeBarbut\obj\Debug\net8.0\CA_BakıyeBarbut.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakıyeBarbut\CA_BakıyeBarbut\obj\Debug\net8.0\CA_BakıyeBarbut.genruntimeconfig.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakıyeBarbut\CA_BakıyeBarbut\obj\Debug\net8.0\ref\CA_BakıyeBarbut.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BARBUT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7197ACC2-CCA0-404D-9A2B-844DE1FF3E0C}|CA_BARBUT\\CA_BARBUT.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\\u00F6dev\\ca_barbut\\ca_barbut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7197ACC2-CCA0-404D-9A2B-844DE1FF3E0C}|CA_BARBUT\\CA_BARBUT.csproj|solutionrelative:ca_barbut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BARBUT\\CA_BARBUT\\Program.cs",
+              "RelativeDocumentMoniker": "CA_BARBUT\\Program.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BARBUT\\CA_BARBUT\\Program.cs",
+              "RelativeToolTip": "CA_BARBUT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:16:34.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\ayber\source\repos\CA_BARBUT\CA_BARBUT\bin\Debug\net8.0\CA_BARBUT.exe
+C:\Users\ayber\source\repos\CA_BARBUT\CA_BARBUT\bin\Debug\net8.0\CA_BARBUT.deps.json
+C:\Users\ayber\source\repos\CA_BARBUT\CA_BARBUT\bin\Debug\net8.0\CA_BARBUT.runtimeconfig.json
+C:\Users\ayber\source\repos\CA_BARBUT\CA_BARBUT\bin\Debug\net8.0\CA_BARBUT.dll
+C:\Users\ayber\source\repos\CA_BARBUT\CA_BARBUT\bin\Debug\net8.0\CA_BARBUT.pdb
+C:\Users\ayber\source\repos\CA_BARBUT\CA_BARBUT\obj\Debug\net8.0\CA_BARBUT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayber\source\repos\CA_BARBUT\CA_BARBUT\obj\Debug\net8.0\CA_BARBUT.AssemblyInfoInputs.cache
+C:\Users\ayber\source\repos\CA_BARBUT\CA_BARBUT\obj\Debug\net8.0\CA_BARBUT.AssemblyInfo.cs
+C:\Users\ayber\source\repos\CA_BARBUT\CA_BARBUT\obj\Debug\net8.0\CA_BARBUT.csproj.CoreCompileInputs.cache
+C:\Users\ayber\source\repos\CA_BARBUT\CA_BARBUT\obj\Debug\net8.0\CA_BARBUT.dll
+C:\Users\ayber\source\repos\CA_BARBUT\CA_BARBUT\obj\Debug\net8.0\refint\CA_BARBUT.dll
+C:\Users\ayber\source\repos\CA_BARBUT\CA_BARBUT\obj\Debug\net8.0\CA_BARBUT.pdb
+C:\Users\ayber\source\repos\CA_BARBUT\CA_BARBUT\obj\Debug\net8.0\CA_BARBUT.genruntimeconfig.cache
+C:\Users\ayber\source\repos\CA_BARBUT\CA_BARBUT\obj\Debug\net8.0\ref\CA_BARBUT.dll

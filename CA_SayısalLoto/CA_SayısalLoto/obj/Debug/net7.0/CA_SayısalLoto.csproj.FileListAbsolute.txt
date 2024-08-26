@@ -1,0 +1,14 @@
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_SayısalLoto\CA_SayısalLoto\bin\Debug\net7.0\CA_SayısalLoto.exe
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_SayısalLoto\CA_SayısalLoto\bin\Debug\net7.0\CA_SayısalLoto.deps.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_SayısalLoto\CA_SayısalLoto\bin\Debug\net7.0\CA_SayısalLoto.runtimeconfig.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_SayısalLoto\CA_SayısalLoto\bin\Debug\net7.0\CA_SayısalLoto.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_SayısalLoto\CA_SayısalLoto\bin\Debug\net7.0\CA_SayısalLoto.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_SayısalLoto\CA_SayısalLoto\obj\Debug\net7.0\CA_SayısalLoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_SayısalLoto\CA_SayısalLoto\obj\Debug\net7.0\CA_SayısalLoto.AssemblyInfoInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_SayısalLoto\CA_SayısalLoto\obj\Debug\net7.0\CA_SayısalLoto.AssemblyInfo.cs
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_SayısalLoto\CA_SayısalLoto\obj\Debug\net7.0\CA_SayısalLoto.csproj.CoreCompileInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_SayısalLoto\CA_SayısalLoto\obj\Debug\net7.0\CA_SayısalLoto.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_SayısalLoto\CA_SayısalLoto\obj\Debug\net7.0\refint\CA_SayısalLoto.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_SayısalLoto\CA_SayısalLoto\obj\Debug\net7.0\CA_SayısalLoto.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_SayısalLoto\CA_SayısalLoto\obj\Debug\net7.0\CA_SayısalLoto.genruntimeconfig.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_SayısalLoto\CA_SayısalLoto\obj\Debug\net7.0\ref\CA_SayısalLoto.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_Bak\u0131yeBarbut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD740CD-6CA1-402F-B3A6-DA8626017FF7}|CA_Bak\u0131yeBarbut\\CA_Bak\u0131yeBarbut.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\\u00F6dev\\ca_bak\u0131yebarbut\\ca_bak\u0131yebarbut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD740CD-6CA1-402F-B3A6-DA8626017FF7}|CA_Bak\u0131yeBarbut\\CA_Bak\u0131yeBarbut.csproj|solutionrelative:ca_bak\u0131yebarbut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_Bak\u0131yeBarbut\\CA_Bak\u0131yeBarbut\\Program.cs",
+              "RelativeDocumentMoniker": "CA_Bak\u0131yeBarbut\\Program.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_Bak\u0131yeBarbut\\CA_Bak\u0131yeBarbut\\Program.cs",
+              "RelativeToolTip": "CA_Bak\u0131yeBarbut\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T21:05:37.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

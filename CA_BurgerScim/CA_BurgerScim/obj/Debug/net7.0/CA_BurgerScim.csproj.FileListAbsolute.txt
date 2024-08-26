@@ -1,0 +1,14 @@
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BurgerScim\CA_BurgerScim\bin\Debug\net7.0\CA_BurgerScim.exe
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BurgerScim\CA_BurgerScim\bin\Debug\net7.0\CA_BurgerScim.deps.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BurgerScim\CA_BurgerScim\bin\Debug\net7.0\CA_BurgerScim.runtimeconfig.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BurgerScim\CA_BurgerScim\bin\Debug\net7.0\CA_BurgerScim.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BurgerScim\CA_BurgerScim\bin\Debug\net7.0\CA_BurgerScim.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BurgerScim\CA_BurgerScim\obj\Debug\net7.0\CA_BurgerScim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BurgerScim\CA_BurgerScim\obj\Debug\net7.0\CA_BurgerScim.AssemblyInfoInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BurgerScim\CA_BurgerScim\obj\Debug\net7.0\CA_BurgerScim.AssemblyInfo.cs
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BurgerScim\CA_BurgerScim\obj\Debug\net7.0\CA_BurgerScim.csproj.CoreCompileInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BurgerScim\CA_BurgerScim\obj\Debug\net7.0\CA_BurgerScim.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BurgerScim\CA_BurgerScim\obj\Debug\net7.0\refint\CA_BurgerScim.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BurgerScim\CA_BurgerScim\obj\Debug\net7.0\CA_BurgerScim.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BurgerScim\CA_BurgerScim\obj\Debug\net7.0\CA_BurgerScim.genruntimeconfig.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BurgerScim\CA_BurgerScim\obj\Debug\net7.0\ref\CA_BurgerScim.dll

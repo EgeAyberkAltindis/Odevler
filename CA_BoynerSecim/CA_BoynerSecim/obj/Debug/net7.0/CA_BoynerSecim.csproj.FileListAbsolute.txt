@@ -1,0 +1,15 @@
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BoynerSecim\CA_BoynerSecim\bin\Debug\net7.0\CA_BoynerSecim.exe
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BoynerSecim\CA_BoynerSecim\bin\Debug\net7.0\CA_BoynerSecim.deps.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BoynerSecim\CA_BoynerSecim\bin\Debug\net7.0\CA_BoynerSecim.runtimeconfig.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BoynerSecim\CA_BoynerSecim\bin\Debug\net7.0\CA_BoynerSecim.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BoynerSecim\CA_BoynerSecim\bin\Debug\net7.0\CA_BoynerSecim.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BoynerSecim\CA_BoynerSecim\obj\Debug\net7.0\CA_BoynerSecim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BoynerSecim\CA_BoynerSecim\obj\Debug\net7.0\CA_BoynerSecim.AssemblyInfoInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BoynerSecim\CA_BoynerSecim\obj\Debug\net7.0\CA_BoynerSecim.AssemblyInfo.cs
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BoynerSecim\CA_BoynerSecim\obj\Debug\net7.0\CA_BoynerSecim.csproj.CoreCompileInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BoynerSecim\CA_BoynerSecim\obj\Debug\net7.0\CA_BoynerSecim.sourcelink.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BoynerSecim\CA_BoynerSecim\obj\Debug\net7.0\CA_BoynerSecim.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BoynerSecim\CA_BoynerSecim\obj\Debug\net7.0\refint\CA_BoynerSecim.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BoynerSecim\CA_BoynerSecim\obj\Debug\net7.0\CA_BoynerSecim.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BoynerSecim\CA_BoynerSecim\obj\Debug\net7.0\CA_BoynerSecim.genruntimeconfig.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BoynerSecim\CA_BoynerSecim\obj\Debug\net7.0\ref\CA_BoynerSecim.dll

@@ -1,0 +1,14 @@
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakiyeIslemi\CA_BakiyeIslemi\bin\Debug\net8.0\CA_BakiyeIslemi.exe
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakiyeIslemi\CA_BakiyeIslemi\bin\Debug\net8.0\CA_BakiyeIslemi.deps.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakiyeIslemi\CA_BakiyeIslemi\bin\Debug\net8.0\CA_BakiyeIslemi.runtimeconfig.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakiyeIslemi\CA_BakiyeIslemi\bin\Debug\net8.0\CA_BakiyeIslemi.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakiyeIslemi\CA_BakiyeIslemi\bin\Debug\net8.0\CA_BakiyeIslemi.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakiyeIslemi\CA_BakiyeIslemi\obj\Debug\net8.0\CA_BakiyeIslemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakiyeIslemi\CA_BakiyeIslemi\obj\Debug\net8.0\CA_BakiyeIslemi.AssemblyInfoInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakiyeIslemi\CA_BakiyeIslemi\obj\Debug\net8.0\CA_BakiyeIslemi.AssemblyInfo.cs
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakiyeIslemi\CA_BakiyeIslemi\obj\Debug\net8.0\CA_BakiyeIslemi.csproj.CoreCompileInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakiyeIslemi\CA_BakiyeIslemi\obj\Debug\net8.0\CA_BakiyeIslemi.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakiyeIslemi\CA_BakiyeIslemi\obj\Debug\net8.0\refint\CA_BakiyeIslemi.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakiyeIslemi\CA_BakiyeIslemi\obj\Debug\net8.0\CA_BakiyeIslemi.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakiyeIslemi\CA_BakiyeIslemi\obj\Debug\net8.0\CA_BakiyeIslemi.genruntimeconfig.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_BakiyeIslemi\CA_BakiyeIslemi\obj\Debug\net8.0\ref\CA_BakiyeIslemi.dll

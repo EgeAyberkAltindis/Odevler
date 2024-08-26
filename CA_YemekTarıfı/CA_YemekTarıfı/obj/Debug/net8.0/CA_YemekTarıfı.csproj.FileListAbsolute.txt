@@ -1,0 +1,14 @@
+C:\Users\ayber\source\repos\CA_YemekTarıfı\CA_YemekTarıfı\bin\Debug\net8.0\CA_YemekTarıfı.exe
+C:\Users\ayber\source\repos\CA_YemekTarıfı\CA_YemekTarıfı\bin\Debug\net8.0\CA_YemekTarıfı.deps.json
+C:\Users\ayber\source\repos\CA_YemekTarıfı\CA_YemekTarıfı\bin\Debug\net8.0\CA_YemekTarıfı.runtimeconfig.json
+C:\Users\ayber\source\repos\CA_YemekTarıfı\CA_YemekTarıfı\bin\Debug\net8.0\CA_YemekTarıfı.dll
+C:\Users\ayber\source\repos\CA_YemekTarıfı\CA_YemekTarıfı\bin\Debug\net8.0\CA_YemekTarıfı.pdb
+C:\Users\ayber\source\repos\CA_YemekTarıfı\CA_YemekTarıfı\obj\Debug\net8.0\CA_YemekTarıfı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayber\source\repos\CA_YemekTarıfı\CA_YemekTarıfı\obj\Debug\net8.0\CA_YemekTarıfı.AssemblyInfoInputs.cache
+C:\Users\ayber\source\repos\CA_YemekTarıfı\CA_YemekTarıfı\obj\Debug\net8.0\CA_YemekTarıfı.AssemblyInfo.cs
+C:\Users\ayber\source\repos\CA_YemekTarıfı\CA_YemekTarıfı\obj\Debug\net8.0\CA_YemekTarıfı.csproj.CoreCompileInputs.cache
+C:\Users\ayber\source\repos\CA_YemekTarıfı\CA_YemekTarıfı\obj\Debug\net8.0\CA_YemekTarıfı.dll
+C:\Users\ayber\source\repos\CA_YemekTarıfı\CA_YemekTarıfı\obj\Debug\net8.0\refint\CA_YemekTarıfı.dll
+C:\Users\ayber\source\repos\CA_YemekTarıfı\CA_YemekTarıfı\obj\Debug\net8.0\CA_YemekTarıfı.pdb
+C:\Users\ayber\source\repos\CA_YemekTarıfı\CA_YemekTarıfı\obj\Debug\net8.0\CA_YemekTarıfı.genruntimeconfig.cache
+C:\Users\ayber\source\repos\CA_YemekTarıfı\CA_YemekTarıfı\obj\Debug\net8.0\ref\CA_YemekTarıfı.dll

@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BoynerSecim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA078C5-60AD-426F-9F9C-E2B562836359}|CA_BoynerSecim\\CA_BoynerSecim.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\\u00F6dev\\ca_boynersecim\\ca_boynersecim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA078C5-60AD-426F-9F9C-E2B562836359}|CA_BoynerSecim\\CA_BoynerSecim.csproj|solutionrelative:ca_boynersecim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA078C5-60AD-426F-9F9C-E2B562836359}|CA_BoynerSecim\\CA_BoynerSecim.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\\u00F6dev\\ca_boynersecim\\ca_boynersecim\\kozmetik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA078C5-60AD-426F-9F9C-E2B562836359}|CA_BoynerSecim\\CA_BoynerSecim.csproj|solutionrelative:ca_boynersecim\\kozmetik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA078C5-60AD-426F-9F9C-E2B562836359}|CA_BoynerSecim\\CA_BoynerSecim.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\\u00F6dev\\ca_boynersecim\\ca_boynersecim\\elektronik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA078C5-60AD-426F-9F9C-E2B562836359}|CA_BoynerSecim\\CA_BoynerSecim.csproj|solutionrelative:ca_boynersecim\\elektronik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA078C5-60AD-426F-9F9C-E2B562836359}|CA_BoynerSecim\\CA_BoynerSecim.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\\u00F6dev\\ca_boynersecim\\ca_boynersecim\\gida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA078C5-60AD-426F-9F9C-E2B562836359}|CA_BoynerSecim\\CA_BoynerSecim.csproj|solutionrelative:ca_boynersecim\\gida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA078C5-60AD-426F-9F9C-E2B562836359}|CA_BoynerSecim\\CA_BoynerSecim.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\\u00F6dev\\ca_boynersecim\\ca_boynersecim\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA078C5-60AD-426F-9F9C-E2B562836359}|CA_BoynerSecim\\CA_BoynerSecim.csproj|solutionrelative:ca_boynersecim\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA078C5-60AD-426F-9F9C-E2B562836359}|CA_BoynerSecim\\CA_BoynerSecim.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\\u00F6dev\\ca_boynersecim\\ca_boynersecim\\giyim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA078C5-60AD-426F-9F9C-E2B562836359}|CA_BoynerSecim\\CA_BoynerSecim.csproj|solutionrelative:ca_boynersecim\\giyim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BoynerSecim\\CA_BoynerSecim\\Urun.cs",
+              "RelativeDocumentMoniker": "CA_BoynerSecim\\Urun.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BoynerSecim\\CA_BoynerSecim\\Urun.cs",
+              "RelativeToolTip": "CA_BoynerSecim\\Urun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T19:05:52.372Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Giyim.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BoynerSecim\\CA_BoynerSecim\\Giyim.cs",
+              "RelativeDocumentMoniker": "CA_BoynerSecim\\Giyim.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BoynerSecim\\CA_BoynerSecim\\Giyim.cs",
+              "RelativeToolTip": "CA_BoynerSecim\\Giyim.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:32:31.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gida.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BoynerSecim\\CA_BoynerSecim\\Gida.cs",
+              "RelativeDocumentMoniker": "CA_BoynerSecim\\Gida.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BoynerSecim\\CA_BoynerSecim\\Gida.cs",
+              "RelativeToolTip": "CA_BoynerSecim\\Gida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T19:01:03.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Elektronik.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BoynerSecim\\CA_BoynerSecim\\Elektronik.cs",
+              "RelativeDocumentMoniker": "CA_BoynerSecim\\Elektronik.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BoynerSecim\\CA_BoynerSecim\\Elektronik.cs",
+              "RelativeToolTip": "CA_BoynerSecim\\Elektronik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T19:00:30.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kozmetik.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BoynerSecim\\CA_BoynerSecim\\Kozmetik.cs",
+              "RelativeDocumentMoniker": "CA_BoynerSecim\\Kozmetik.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BoynerSecim\\CA_BoynerSecim\\Kozmetik.cs",
+              "RelativeToolTip": "CA_BoynerSecim\\Kozmetik.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:59:56.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BoynerSecim\\CA_BoynerSecim\\Program.cs",
+              "RelativeDocumentMoniker": "CA_BoynerSecim\\Program.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\\u00D6DEV\\CA_BoynerSecim\\CA_BoynerSecim\\Program.cs",
+              "RelativeToolTip": "CA_BoynerSecim\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:52:09.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
