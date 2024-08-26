@@ -1,0 +1,15 @@
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Cinema\CA_Cinema\bin\Debug\net7.0\CA_Cinema.exe
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Cinema\CA_Cinema\bin\Debug\net7.0\CA_Cinema.deps.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Cinema\CA_Cinema\bin\Debug\net7.0\CA_Cinema.runtimeconfig.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Cinema\CA_Cinema\bin\Debug\net7.0\CA_Cinema.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Cinema\CA_Cinema\bin\Debug\net7.0\CA_Cinema.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Cinema\CA_Cinema\obj\Debug\net7.0\CA_Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Cinema\CA_Cinema\obj\Debug\net7.0\CA_Cinema.AssemblyInfoInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Cinema\CA_Cinema\obj\Debug\net7.0\CA_Cinema.AssemblyInfo.cs
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Cinema\CA_Cinema\obj\Debug\net7.0\CA_Cinema.csproj.CoreCompileInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Cinema\CA_Cinema\obj\Debug\net7.0\CA_Cinema.sourcelink.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Cinema\CA_Cinema\obj\Debug\net7.0\CA_Cinema.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Cinema\CA_Cinema\obj\Debug\net7.0\refint\CA_Cinema.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Cinema\CA_Cinema\obj\Debug\net7.0\CA_Cinema.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Cinema\CA_Cinema\obj\Debug\net7.0\CA_Cinema.genruntimeconfig.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\ÖDEV\CA_Cinema\CA_Cinema\obj\Debug\net7.0\ref\CA_Cinema.dll
