@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ncm5hSf9QVo=",
+  "dgSpecHash": "FKjTU0NcGRs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\ÖDEV\\Data Acces\\CA_NortwindVeriTabanı\\CA_NortwindVeriTabanı\\CA_NortwindVeriTabanı.csproj",
+  "projectFilePath": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\YZL3173\\ÖDEV\\Data Acces\\CA_NortwindVeriTabanı\\CA_NortwindVeriTabanı\\CA_NortwindVeriTabanı.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ayber\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ayber\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -2973,11 +2973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\ÖDEV\\Data Acces\\CA_NortwindVeriTabanı\\CA_NortwindVeriTabanı\\CA_NortwindVeriTabanı.csproj",
+      "projectUniqueName": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\YZL3173\\ÖDEV\\Data Acces\\CA_NortwindVeriTabanı\\CA_NortwindVeriTabanı\\CA_NortwindVeriTabanı.csproj",
       "projectName": "CA_NortwindVeriTabanı",
-      "projectPath": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\ÖDEV\\Data Acces\\CA_NortwindVeriTabanı\\CA_NortwindVeriTabanı\\CA_NortwindVeriTabanı.csproj",
+      "projectPath": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\YZL3173\\ÖDEV\\Data Acces\\CA_NortwindVeriTabanı\\CA_NortwindVeriTabanı\\CA_NortwindVeriTabanı.csproj",
       "packagesPath": "C:\\Users\\ayber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\ÖDEV\\Data Acces\\CA_NortwindVeriTabanı\\CA_NortwindVeriTabanı\\obj\\",
+      "outputPath": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\YZL3173\\ÖDEV\\Data Acces\\CA_NortwindVeriTabanı\\CA_NortwindVeriTabanı\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
