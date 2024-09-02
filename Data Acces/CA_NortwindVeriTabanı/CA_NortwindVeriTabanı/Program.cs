@@ -19,20 +19,27 @@ namespace NorthwindVeriTabanı
 
             try 
             {
+                Console.WriteLine("bir isim girin");
+                string ısım = Convert.ToString(Console.ReadLine());
+            
+                Console.WriteLine("soyad eklemek istermisiniz? evet/hayır");
+                string cevap = Console.ReadLine();
+                if (cevap == "evet")
+                {
+                    Console.WriteLine("soyad giriniz");
+                    string soyad = Console.ReadLine();
+                    müsteri.IsımSoyad(ısım, soyad);
+                }
+                else
+                {
+                    müsteri.Isım(ısım);
+                }
+                    
                 while (true)
                 {
-                    //Console.WriteLine("bir isim girin");
-                    //string ısım = Convert.ToString(Console.ReadLine());
+                    
 
-                    //for (int i = 0; i <employee.FirstName.Length; i++) 
-                    //{
-
-                    //    if (employee.FirstName[i] == ısım)
-                    //    {
-                    //        müsteri.Isım(ısım);
-                    //    }
-                    //}
-
+                   
 
                     //Console.WriteLine( "bir sayı girin");
                     //int sayı1 = int .Parse(Console.ReadLine());
@@ -44,8 +51,8 @@ namespace NorthwindVeriTabanı
                     //int sayı2 = int.Parse(Console.ReadLine());
                     //urun.Islem2(sayı1, sayı2);
 
-                    urun.AdetBul();
-                    
+
+
                 }
 
 

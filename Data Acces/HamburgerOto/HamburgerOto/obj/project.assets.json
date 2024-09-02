@@ -2967,23 +2967,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ayber\\.nuget\\packages\\": {},
+    "C:\\Users\\ayberk.altindis\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\YZL3173\\ÖDEV\\Data Acces\\HamburgerOto\\HamburgerOto\\HamburgerOto.csproj",
+      "projectUniqueName": "C:\\Users\\ayberk.altindis\\Desktop\\YZL3173\\Odevler\\Data Acces\\HamburgerOto\\HamburgerOto\\HamburgerOto.csproj",
       "projectName": "HamburgerOto",
-      "projectPath": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\YZL3173\\ÖDEV\\Data Acces\\HamburgerOto\\HamburgerOto\\HamburgerOto.csproj",
-      "packagesPath": "C:\\Users\\ayber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\YZL3173\\ÖDEV\\Data Acces\\HamburgerOto\\HamburgerOto\\obj\\",
+      "projectPath": "C:\\Users\\ayberk.altindis\\Desktop\\YZL3173\\Odevler\\Data Acces\\HamburgerOto\\HamburgerOto\\HamburgerOto.csproj",
+      "packagesPath": "C:\\Users\\ayberk.altindis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ayberk.altindis\\Desktop\\YZL3173\\Odevler\\Data Acces\\HamburgerOto\\HamburgerOto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ayber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ayberk.altindis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3005,11 +3005,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3043,7 +3038,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

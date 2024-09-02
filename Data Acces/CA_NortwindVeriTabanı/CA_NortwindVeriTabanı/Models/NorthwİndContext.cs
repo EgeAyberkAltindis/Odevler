@@ -71,7 +71,7 @@ public partial class NorthwİndContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("server=DESKTOP-ABTB3OG\\SQLEXPRESS;database=NORTHWİND;Trusted_Connection=True;TrustServerCertificate=True");
+        => optionsBuilder.UseSqlServer("server=KDK-101-PC04-YZ;database=NorthwindDB;Trusted_Connection=True;TrustServerCertificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

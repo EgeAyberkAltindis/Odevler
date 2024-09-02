@@ -18,10 +18,8 @@ namespace CA_NortwindVeriTabanı.Concretes
         /// </summary>
         /// <param name="ad"></param>
         public void Isım(string ad)
-            
-        {
-            
-            var employeesIsım = db.Employees.Select(x => new
+         {
+            var employeesIsım = db.Employees.Where(x=> x.FirstName== ad ).Select(x => new
             {
                 x.EmployeeId,
                 x.FirstName,
@@ -43,7 +41,7 @@ namespace CA_NortwindVeriTabanı.Concretes
         /// <param name="soyad"></param>
         public void IsımSoyad(string ad, string soyad)
         {
-            var employeesIsımSoyad = db.Employees.Select(x => new
+            var employeesIsımSoyad = db.Employees.Where(x => x.FirstName == ad).Where(x => x.LastName == soyad).Select(x => new
             {
                 x.EmployeeId,
                 x.FirstName,
