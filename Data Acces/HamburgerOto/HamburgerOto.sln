@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamburgerOto", "HamburgerOto\HamburgerOto.csproj", "{15214AEC-4998-4BA2-844F-80EB8434542D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15214AEC-4998-4BA2-844F-80EB8434542D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15214AEC-4998-4BA2-844F-80EB8434542D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15214AEC-4998-4BA2-844F-80EB8434542D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15214AEC-4998-4BA2-844F-80EB8434542D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9903B949-9525-49B3-BC3E-362E02C0C29D}
+	EndGlobalSection
+EndGlobal
