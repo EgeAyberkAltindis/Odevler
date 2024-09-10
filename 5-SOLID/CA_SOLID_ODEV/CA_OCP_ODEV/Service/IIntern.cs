@@ -11,7 +11,9 @@ namespace CA_OCP_ODEV.Service
     {
         public int ThrowRandomId();
 
-        public Intern GetID();
+        public Intern GetID(int id);
+
+        public void AddId(int id);
         
 
     }
