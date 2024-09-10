@@ -9,7 +9,9 @@ namespace CA_OCP_ODEV.Service
 {
     public interface IIntern
     {
-        public Intern GetIntern();
+        public int ThrowRandomId();
+
+        public Intern GetID();
         
 
     }

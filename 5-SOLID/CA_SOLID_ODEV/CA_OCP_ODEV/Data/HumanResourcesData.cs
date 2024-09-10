@@ -8,5 +8,6 @@ namespace CA_OCP_ODEV.Data
 {
     public class HumanResourcesData
     {
+        public static List<HumanResource> human = new List<HumanResource>();
     }
 }

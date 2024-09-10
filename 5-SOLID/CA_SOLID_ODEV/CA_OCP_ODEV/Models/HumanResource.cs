@@ -8,7 +8,7 @@ using CA_OCP_ODEV.Abstract;
 
 namespace CA_OCP_ODEV
 {
-    internal class HumanResource:Intern
+    public class HumanResource:Intern
     {
     }
 }

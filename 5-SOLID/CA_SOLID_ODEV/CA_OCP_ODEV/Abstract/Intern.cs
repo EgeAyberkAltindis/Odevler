@@ -1,4 +1,5 @@
-﻿using CA_OCP_ODEV.Service;
+﻿using CA_OCP_ODEV.Data;
+using CA_OCP_ODEV.Service;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,22 +10,18 @@ namespace CA_OCP_ODEV.Abstract
 {
     public class Intern : Employee, IIntern
     {
-        Intern IIntern.GetIntern()
+        Random rnd = new Random();  
+        InternData kisiler = new InternData();
+
+        public Intern GetID()
         {
-            while(true) 
-            {
-                Random random = new Random();
-                int sayı = random.Next(11);
+            throw new NotImplementedException();
+        }
 
-                Intern intern = new Intern();
-                intern.ID = sayı;
-
-                if (sayı == intern.ID)
-                {
-                    return intern;
-                }
-                
-            }
+        public int ThrowRandomId()
+        {
+           int randomSayi=rnd.Next(11);
+            return randomSayi;
         }
     }
 }

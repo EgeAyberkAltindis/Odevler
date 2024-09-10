@@ -8,5 +8,6 @@ namespace CA_OCP_ODEV.Data
 {
     public class AccointingData
     {
+        public static List<AccointingData> accointingData = new List<AccointingData>();
     }
 }
