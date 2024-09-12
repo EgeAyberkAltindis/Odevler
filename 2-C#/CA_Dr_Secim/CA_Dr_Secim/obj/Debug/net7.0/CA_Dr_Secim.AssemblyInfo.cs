@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CA_Dr_Secim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77696e28b2dbb01bc5c4d095622fd4c996420199")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5222caff1da4ecfa75d1671fffa7cb739ce97388")]
 [assembly: System.Reflection.AssemblyProductAttribute("CA_Dr_Secim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CA_Dr_Secim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
