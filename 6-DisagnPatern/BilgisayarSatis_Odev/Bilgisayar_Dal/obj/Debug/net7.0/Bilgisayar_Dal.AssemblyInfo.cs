@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bilgisayar_Dal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3660bebf42bb7f97498700919100541749c72f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cfe0709791d9bfa5cb56ad06840eb5ccaca8ca5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bilgisayar_Dal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bilgisayar_Dal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
