@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D935F283-6DD7-45E6-95DD-A5BF514A6BD9}|MMOARP_UI\\MMOARP_UI.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\#odev#\\5-solid\\mmoarpg\\mmoarp_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D935F283-6DD7-45E6-95DD-A5BF514A6BD9}|MMOARP_UI\\MMOARP_UI.csproj|solutionrelative:mmoarp_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB994EE8-76A9-4F3A-9E9D-9EB8D44A39C7}|MMOARP_BBL\\MMOARP_BBL.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\#odev#\\5-solid\\mmoarpg\\mmoarp_bbl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB994EE8-76A9-4F3A-9E9D-9EB8D44A39C7}|MMOARP_BBL\\MMOARP_BBL.csproj|solutionrelative:mmoarp_bbl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4EE53-BA1D-4284-91DA-FF27ABADBC49}|MMOARP_DAL\\MMOARP_DAL.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\#odev#\\5-solid\\mmoarpg\\mmoarp_dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4EE53-BA1D-4284-91DA-FF27ABADBC49}|MMOARP_DAL\\MMOARP_DAL.csproj|solutionrelative:mmoarp_dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARP_UI\\Program.cs",
+              "RelativeDocumentMoniker": "MMOARP_UI\\Program.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARP_UI\\Program.cs",
+              "RelativeToolTip": "MMOARP_UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:10:08.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARP_BBL\\Program.cs",
+              "RelativeDocumentMoniker": "MMOARP_BBL\\Program.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARP_BBL\\Program.cs",
+              "RelativeToolTip": "MMOARP_BBL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:09:48.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARP_DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "MMOARP_DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARP_DAL\\Class1.cs",
+              "RelativeToolTip": "MMOARP_DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:09:29.639Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

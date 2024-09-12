@@ -1,0 +1,16 @@
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\bin\Debug\net7.0\Bİlgisayar_BLL.deps.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\bin\Debug\net7.0\Bİlgisayar_BLL.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\bin\Debug\net7.0\Bİlgisayar_BLL.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\bin\Debug\net7.0\Bilgisayar_Dal.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\bin\Debug\net7.0\Bilgisayar_Dal.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\obj\Debug\net7.0\Bİlgisayar_BLL.csproj.AssemblyReference.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\obj\Debug\net7.0\Bİlgisayar_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\obj\Debug\net7.0\Bİlgisayar_BLL.AssemblyInfoInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\obj\Debug\net7.0\Bİlgisayar_BLL.AssemblyInfo.cs
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\obj\Debug\net7.0\Bİlgisayar_BLL.csproj.CoreCompileInputs.cache
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\obj\Debug\net7.0\Bİlgisayar_BLL.sourcelink.json
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\obj\Debug\net7.0\B_lgisay.0B98AA1A.Up2Date
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\obj\Debug\net7.0\Bİlgisayar_BLL.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\obj\Debug\net7.0\refint\Bİlgisayar_BLL.dll
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\obj\Debug\net7.0\Bİlgisayar_BLL.pdb
+C:\Users\ayber\OneDrive\Masaüstü\YZL3173\#ODEV#\6-DisagnPatern\BilgisayarSatis_Odev\Bİlgisayar_BLL\obj\Debug\net7.0\ref\Bİlgisayar_BLL.dll
