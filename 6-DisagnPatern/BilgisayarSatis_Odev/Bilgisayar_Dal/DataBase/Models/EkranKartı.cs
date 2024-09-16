@@ -9,5 +9,8 @@ namespace Bilgisayar_Dal.DataBase.Models
     public class EkranKartı:BaseClass
     {
         public List<Bilgisayar> Bilgisayars { get; set; }
+        public string Uretici { get; set; }
+        public int Bellek { get; set; }
+        
     }
 }

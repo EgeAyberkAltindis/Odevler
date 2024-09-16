@@ -9,5 +9,8 @@ namespace Bilgisayar_Dal.DataBase.Models
     public class Marka:BaseClass
     {
         public List<Bilgisayar> Bilgisayars { get; set; }
+
+        
+       
     }
 }

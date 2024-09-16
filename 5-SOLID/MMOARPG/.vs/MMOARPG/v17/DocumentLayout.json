@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D935F283-6DD7-45E6-95DD-A5BF514A6BD9}|MMOARP_UI\\MMOARP_UI.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\#odev#\\5-solid\\mmoarpg\\mmoarp_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D935F283-6DD7-45E6-95DD-A5BF514A6BD9}|MMOARP_UI\\MMOARP_UI.csproj|solutionrelative:mmoarp_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59A7B8C8-67CE-4059-A110-1F9E03957F3C}|MMOARPG_DLL\\MMOARPG_DLL.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\#odev#\\5-solid\\mmoarpg\\mmoarpg_dll\\mmoarpg_dll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59A7B8C8-67CE-4059-A110-1F9E03957F3C}|MMOARPG_DLL\\MMOARPG_DLL.csproj|solutionrelative:mmoarpg_dll\\mmoarpg_dll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB994EE8-76A9-4F3A-9E9D-9EB8D44A39C7}|MMOARP_BBL\\MMOARP_BBL.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\#odev#\\5-solid\\mmoarpg\\mmoarp_bbl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB994EE8-76A9-4F3A-9E9D-9EB8D44A39C7}|MMOARP_BBL\\MMOARP_BBL.csproj|solutionrelative:mmoarp_bbl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59A7B8C8-67CE-4059-A110-1F9E03957F3C}|MMOARPG_DLL\\MMOARPG_DLL.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\#odev#\\5-solid\\mmoarpg\\mmoarpg_dll\\entities\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A7B8C8-67CE-4059-A110-1F9E03957F3C}|MMOARPG_DLL\\MMOARPG_DLL.csproj|solutionrelative:mmoarpg_dll\\entities\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBE4EE53-BA1D-4284-91DA-FF27ABADBC49}|MMOARP_DAL\\MMOARP_DAL.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\#odev#\\5-solid\\mmoarpg\\mmoarp_dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBE4EE53-BA1D-4284-91DA-FF27ABADBC49}|MMOARP_DAL\\MMOARP_DAL.csproj|solutionrelative:mmoarp_dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59A7B8C8-67CE-4059-A110-1F9E03957F3C}|MMOARPG_DLL\\MMOARPG_DLL.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\#odev#\\5-solid\\mmoarpg\\mmoarpg_dll\\entities\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A7B8C8-67CE-4059-A110-1F9E03957F3C}|MMOARPG_DLL\\MMOARPG_DLL.csproj|solutionrelative:mmoarpg_dll\\entities\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A7B8C8-67CE-4059-A110-1F9E03957F3C}|MMOARPG_DLL\\MMOARPG_DLL.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\#odev#\\5-solid\\mmoarpg\\mmoarpg_dll\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A7B8C8-67CE-4059-A110-1F9E03957F3C}|MMOARPG_DLL\\MMOARPG_DLL.csproj|solutionrelative:mmoarpg_dll\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A7B8C8-67CE-4059-A110-1F9E03957F3C}|MMOARPG_DLL\\MMOARPG_DLL.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\#odev#\\5-solid\\mmoarpg\\mmoarpg_dll\\context\\mmoarpg_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A7B8C8-67CE-4059-A110-1F9E03957F3C}|MMOARPG_DLL\\MMOARPG_DLL.csproj|solutionrelative:mmoarpg_dll\\context\\mmoarpg_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A7B8C8-67CE-4059-A110-1F9E03957F3C}|MMOARPG_DLL\\MMOARPG_DLL.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\#odev#\\5-solid\\mmoarpg\\mmoarpg_dll\\entities\\clothes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A7B8C8-67CE-4059-A110-1F9E03957F3C}|MMOARPG_DLL\\MMOARPG_DLL.csproj|solutionrelative:mmoarpg_dll\\entities\\clothes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A7B8C8-67CE-4059-A110-1F9E03957F3C}|MMOARPG_DLL\\MMOARPG_DLL.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\#odev#\\5-solid\\mmoarpg\\mmoarpg_dll\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A7B8C8-67CE-4059-A110-1F9E03957F3C}|MMOARPG_DLL\\MMOARPG_DLL.csproj|solutionrelative:mmoarpg_dll\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F132AA-AD85-437C-9EE8-48B9ABA1D769}|MMOARPG_UI\\MMOARPG_UI.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\yzl3173\\#odev#\\5-solid\\mmoarpg\\mmoarpg_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F132AA-AD85-437C-9EE8-48B9ABA1D769}|MMOARPG_UI\\MMOARPG_UI.csproj|solutionrelative:mmoarpg_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +42,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARP_UI\\Program.cs",
-              "RelativeDocumentMoniker": "MMOARP_UI\\Program.cs",
-              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARP_UI\\Program.cs",
-              "RelativeToolTip": "MMOARP_UI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MMOARPG_Context.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_DLL\\Context\\MMOARPG_Context.cs",
+              "RelativeDocumentMoniker": "MMOARPG_DLL\\Context\\MMOARPG_Context.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_DLL\\Context\\MMOARPG_Context.cs",
+              "RelativeToolTip": "MMOARPG_DLL\\Context\\MMOARPG_Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:10:08.809Z",
+              "WhenOpened": "2024-09-15T13:02:13.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clothes.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_DLL\\Entities\\Clothes.cs",
+              "RelativeDocumentMoniker": "MMOARPG_DLL\\Entities\\Clothes.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_DLL\\Entities\\Clothes.cs",
+              "RelativeToolTip": "MMOARPG_DLL\\Entities\\Clothes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:01:49.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_DLL\\Entities\\Weapon.cs",
+              "RelativeDocumentMoniker": "MMOARPG_DLL\\Entities\\Weapon.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_DLL\\Entities\\Weapon.cs",
+              "RelativeToolTip": "MMOARPG_DLL\\Entities\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:00:34.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_DLL\\Entities\\Grade.cs",
+              "RelativeDocumentMoniker": "MMOARPG_DLL\\Entities\\Grade.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_DLL\\Entities\\Grade.cs",
+              "RelativeToolTip": "MMOARPG_DLL\\Entities\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:00:17.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARP_BBL\\Program.cs",
-              "RelativeDocumentMoniker": "MMOARP_BBL\\Program.cs",
-              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARP_BBL\\Program.cs",
-              "RelativeToolTip": "MMOARP_BBL\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Race.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_DLL\\Entities\\Race.cs",
+              "RelativeDocumentMoniker": "MMOARPG_DLL\\Entities\\Race.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_DLL\\Entities\\Race.cs",
+              "RelativeToolTip": "MMOARPG_DLL\\Entities\\Race.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:09:48.72Z"
+              "WhenOpened": "2024-09-15T12:58:58.524Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARP_DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "MMOARP_DAL\\Class1.cs",
-              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARP_DAL\\Class1.cs",
-              "RelativeToolTip": "MMOARP_DAL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_DLL\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "MMOARPG_DLL\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_DLL\\Entities\\Player.cs",
+              "RelativeToolTip": "MMOARPG_DLL\\Entities\\Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:09:29.639Z"
+              "WhenOpened": "2024-09-15T12:58:11.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MMOARPG_DLL",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_DLL\\MMOARPG_DLL.csproj",
+              "RelativeDocumentMoniker": "MMOARPG_DLL\\MMOARPG_DLL.csproj",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_DLL\\MMOARPG_DLL.csproj",
+              "RelativeToolTip": "MMOARPG_DLL\\MMOARPG_DLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T12:48:45.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_UI\\Program.cs",
+              "RelativeDocumentMoniker": "MMOARPG_UI\\Program.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\YZL3173\\#ODEV#\\5-SOLID\\MMOARPG\\MMOARPG_UI\\Program.cs",
+              "RelativeToolTip": "MMOARPG_UI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T11:07:01.869Z",
+              "EditorCaption": ""
             }
           ]
         }

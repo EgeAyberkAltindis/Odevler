@@ -9,5 +9,7 @@ namespace Bilgisayar_Dal.DataBase.Models
     public class Ram:BaseClass
     {
         public List<Bilgisayar> Bilgisayars { get; set; }
+        public int Hız { get; set; }
+        public int Kapasite { get; set; }
     }
 }

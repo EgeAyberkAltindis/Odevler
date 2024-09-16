@@ -11,10 +11,5 @@ namespace Bilgisayar_Dal.DataBase.Models
         public int ID { get; set; }
         public decimal Fiyat { get; set; }
 
-       
-
-
-
-
     }
 }

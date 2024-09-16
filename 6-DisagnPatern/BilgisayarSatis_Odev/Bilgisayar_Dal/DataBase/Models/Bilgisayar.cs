@@ -8,6 +8,7 @@ namespace Bilgisayar_Dal.DataBase.Models
 {
     public class Bilgisayar:BaseClass
     {
+        
   
         public int AnakartId { get; set; }
         public int EkranKartıId { get; set; }
