@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoregouge\\aspnetcoregouge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|solutionrelative:aspnetcoregouge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoregouge\\aspnetcoregouge\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|solutionrelative:aspnetcoregouge\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoregouge\\aspnetcoregouge\\areas\\dashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|solutionrelative:aspnetcoregouge\\areas\\dashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoregouge\\aspnetcoregouge\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|solutionrelative:aspnetcoregouge\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoregouge\\aspnetcoregouge\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|solutionrelative:aspnetcoregouge\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoregouge\\aspnetcoregouge\\areas\\dashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|solutionrelative:aspnetcoregouge\\areas\\dashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoregouge\\aspnetcoregouge\\areas\\dashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|solutionrelative:aspnetcoregouge\\areas\\dashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoregouge\\aspnetcoregouge\\aspnetcoregouge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AF66C06-2738-40EE-9463-550CB7E0DEC4}|AspNetCoreGouge\\AspNetCoreGouge.csproj|solutionrelative:aspnetcoregouge\\aspnetcoregouge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Models\\Nortwind\\Northw\u0130ndContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AspNetCoreGouge\\Models\\Nortwind\\Northw\u0130ndContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreGouge\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreGouge\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T19:27:20.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreGouge\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspNetCoreGouge\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T19:22:44.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreGouge\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspNetCoreGouge\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwFsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T19:18:45.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreGouge\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCoreGouge\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:17:38.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AspNetCoreGouge\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AspNetCoreGouge\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-11T19:17:25.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AspNetCoreGouge",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\AspNetCoreGouge.csproj",
+              "RelativeDocumentMoniker": "AspNetCoreGouge\\AspNetCoreGouge.csproj",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\AspNetCoreGouge.csproj",
+              "RelativeToolTip": "AspNetCoreGouge\\AspNetCoreGouge.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T19:16:27.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Northw\u0130ndContext.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Models\\Nortwind\\Northw\u0130ndContext.cs",
+              "RelativeDocumentMoniker": "AspNetCoreGouge\\Models\\Nortwind\\Northw\u0130ndContext.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Models\\Nortwind\\Northw\u0130ndContext.cs",
+              "RelativeToolTip": "AspNetCoreGouge\\Models\\Nortwind\\Northw\u0130ndContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:14:23.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreGouge\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCoreGouge\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:11:41.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreGouge\\Program.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Program.cs",
+              "RelativeToolTip": "AspNetCoreGouge\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:11:32.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
