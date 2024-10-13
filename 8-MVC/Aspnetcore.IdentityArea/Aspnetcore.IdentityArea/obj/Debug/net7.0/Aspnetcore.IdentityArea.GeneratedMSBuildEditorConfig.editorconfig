@@ -18,8 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ayber\OneDrive\Masaüstü\BilgeAdam\#ODEV#\8-MVC\Aspnetcore.IdentityArea\Aspnetcore.IdentityArea
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ayber/OneDrive/Masaüstü/BilgeAdam/\#ODEV\#/8-MVC/Aspnetcore.IdentityArea/Aspnetcore.IdentityArea/Areas/Dashboard/Views/AccountContoller/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEFjY291bnRDb250b2xsZXJcUmVnaXN0ZXIuY3NodG1s
+[C:/Users/ayber/OneDrive/Masaüstü/BilgeAdam/\#ODEV\#/8-MVC/Aspnetcore.IdentityArea/Aspnetcore.IdentityArea/Areas/Dashboard/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEFjY291bnRcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ayber/OneDrive/Masaüstü/BilgeAdam/\#ODEV\#/8-MVC/Aspnetcore.IdentityArea/Aspnetcore.IdentityArea/Areas/Dashboard/Views/Home/Index.cshtml]

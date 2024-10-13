@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aspnetcore.IdentityArea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+007889d08360d2c539c2c4d0a84a311064d085fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24801aa2624fe181c8d2e90b8f46a7e51c775644")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aspnetcore.IdentityArea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aspnetcore.IdentityArea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,7 +12,9 @@ namespace Aspnetcore.IdentityArea.Areas.Dashboard.Controllers
         {
             _appUser = appUser;
         }
-        [Area("Dashboard")]
+       
+       
+
         public IActionResult Register()
         {
             
