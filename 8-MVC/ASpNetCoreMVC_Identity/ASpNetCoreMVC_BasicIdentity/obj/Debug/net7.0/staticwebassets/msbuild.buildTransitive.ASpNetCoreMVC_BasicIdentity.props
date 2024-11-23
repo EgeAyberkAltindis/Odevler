@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ASpNetCoreMVC_BasicIdentity.props" />
+</Project>

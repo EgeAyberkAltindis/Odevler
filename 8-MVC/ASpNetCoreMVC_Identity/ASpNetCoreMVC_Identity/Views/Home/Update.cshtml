@@ -1,0 +1,26 @@
+﻿@model Ayakkabi
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form method="post">
+    <input asp-for="ID" type="hidden"/>
+    <div>
+        <label>Ayakkabı Marka</label>
+        <input type="text" value="@Model.Marka" asp-for="Marka" />
+    </div>
+    <div>
+        <label>Ayakkabı Model</label>
+        <input type="text" value="@Model.Model" asp-for="Model" />
+    </div>
+   <div>
+        <label>Ayakkabı Fiyat</label>
+        <input type="number" value="@Model.Fiyat" asp-for="Fiyat" />
+   </div>
+
+   <button type="submit" class="btn btn-primary">Update</button>
+
+
+</form>
+

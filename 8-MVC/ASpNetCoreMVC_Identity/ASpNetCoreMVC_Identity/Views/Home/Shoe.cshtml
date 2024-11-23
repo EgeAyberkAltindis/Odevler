@@ -1,0 +1,17 @@
+﻿@model List<Ayakkabi>
+@{
+    ViewData["Title"] = "Shoe";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<ul>
+    @foreach (var ayakkabi in Model)
+    {
+        <li>@ayakkabi.Marka | @ayakkabi.Model | @ayakkabi.Fiyat | 
+            <a asp-action="Update" asp-controller="Home" asp-route-id="@ayakkabi.ID" ></a>
+
+
+        </li>
+    }
+</ul>
+

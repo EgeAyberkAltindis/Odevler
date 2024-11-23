@@ -46,23 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AspNetCoreGouge\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AspNetCoreGouge\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T19:27:20.059Z"
             },
             {
               "$type": "Document",
@@ -160,6 +148,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T19:11:32.081Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreGouge\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\AspNetCoreGouge\\AspNetCoreGouge\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreGouge\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T19:27:20.059Z"
             }
           ]
         }

@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoremvc_identity\\aspnetcoremvc_basicidentity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|solutionrelative:aspnetcoremvc_basicidentity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoremvc_identity\\aspnetcoremvc_basicidentity\\areas\\dashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|solutionrelative:aspnetcoremvc_basicidentity\\areas\\dashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoremvc_identity\\aspnetcoremvc_basicidentity\\areas\\dashboard\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|solutionrelative:aspnetcoremvc_basicidentity\\areas\\dashboard\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoremvc_identity\\aspnetcoremvc_basicidentity\\areas\\dashboard\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|solutionrelative:aspnetcoremvc_basicidentity\\areas\\dashboard\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoremvc_identity\\aspnetcoremvc_basicidentity\\areas\\dashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|solutionrelative:aspnetcoremvc_basicidentity\\areas\\dashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoremvc_identity\\aspnetcoremvc_basicidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|solutionrelative:aspnetcoremvc_basicidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoremvc_identity\\aspnetcoremvc_basicidentity\\areas\\dashboard\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|solutionrelative:aspnetcoremvc_basicidentity\\areas\\dashboard\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoremvc_identity\\aspnetcoremvc_basicidentity\\areas\\dashboard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|solutionrelative:aspnetcoremvc_basicidentity\\areas\\dashboard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|c:\\users\\ayber\\onedrive\\masa\u00FCst\u00FC\\bilgeadam\\#odev#\\8-mvc\\aspnetcoremvc_identity\\aspnetcoremvc_basicidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5282FD29-1D60-496E-B3D0-2D3AC443F46C}|ASpNetCoreMVC_BasicIdentity\\ASpNetCoreMVC_BasicIdentity.csproj|solutionrelative:aspnetcoremvc_basicidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASpNetCoreMVC_BasicIdentity\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASpNetCoreMVC_BasicIdentity\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:38:45.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:34:51.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\appsettings.json",
+              "RelativeDocumentMoniker": "ASpNetCoreMVC_BasicIdentity\\appsettings.json",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\appsettings.json",
+              "RelativeToolTip": "ASpNetCoreMVC_BasicIdentity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T14:40:04.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\Home\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:34:51.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Program.cs",
+              "RelativeDocumentMoniker": "ASpNetCoreMVC_BasicIdentity\\Program.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Program.cs",
+              "RelativeToolTip": "ASpNetCoreMVC_BasicIdentity\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:34:51.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\Role\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\Role\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\Role\\Create.cshtml",
+              "RelativeToolTip": "ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\Role\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:34:51.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:34:51.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:34:51.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ayber\\OneDrive\\Masa\u00FCst\u00FC\\BilgeAdam\\#ODEV#\\8-MVC\\ASpNetCoreMVC_Identity\\ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASpNetCoreMVC_BasicIdentity\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:34:51.433Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

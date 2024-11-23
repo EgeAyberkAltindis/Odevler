@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetCoreGouge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+007889d08360d2c539c2c4d0a84a311064d085fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05a5469b0507bed05574a5da875b9765a4ace655")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetCoreGouge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetCoreGouge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
