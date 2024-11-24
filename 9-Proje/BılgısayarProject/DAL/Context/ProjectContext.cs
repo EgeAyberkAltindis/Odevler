@@ -12,27 +12,28 @@ using System.Threading.Tasks;
 
 namespace DAL.Context
 {
-    public class ProjectContext:IdentityDbContext
+    public class ProjectContext:IdentityDbContext<User,IdentityRole<int>,int>
     {
-        //public ProjectContext(DbContextOptions<ProjectContext> options): base(options)
+        //public ProjectContext(DbContextOptions<ProjectContext> options) : base(options)
         //{
-            
+
         //}
         //public ProjectContext()
         //{
-                
+
         //}
 
-        DbSet<Bilgisayar> Bilgisayars { get; set; }
-        DbSet<BilgisayarCategory>BilgisayarCategories { get; set; }
-        DbSet<EkranKartı> EkranKarts { get; set; }
-        DbSet<Islemci>Islemcis { get; set; }
-        DbSet<Ekran> Ekrans {  get; set; }
-        DbSet<Order> Orders { get; set; }
-        DbSet<OrderDetail>OrderDetails { get; set; }
-        DbSet<Ram> Rams { get; set; }
+        public DbSet<Bilgisayar> Bilgisayars { get; set; }
+        public DbSet<BilgisayarCategory>BilgisayarCategories { get; set; }
+        public DbSet<EkranKartı> EkranKarts { get; set; }
+        public DbSet<Islemci>Islemcis { get; set; }
+        public DbSet<Ekran> Ekrans {  get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderDetail>OrderDetails { get; set; }
+        public DbSet<Ram> Rams { get; set; }
+        public DbSet<User> Users { get; set; }
 
-        
+
 
 
 
@@ -45,7 +46,8 @@ namespace DAL.Context
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("server=DESKTOP-ABTB3OG\\SQLEXPRESS;database=BilgisayarToplamaDB;Trusted_Connection=True;TrustServerCertificate=True");
+                optionsBuilder.UseSqlServer("server=KDK-404-PCO4-YZ;database=BilgisayarToplamaDB;Trusted_Connection=True;TrustServerCertificate=True");
+                    //"server=DESKTOP-ABTB3OG\\SQLEXPRESS;database=BilgisayarToplamaDB;Trusted_Connection=True;TrustServerCertificate=True");
             }
 
             base.OnConfiguring(optionsBuilder);

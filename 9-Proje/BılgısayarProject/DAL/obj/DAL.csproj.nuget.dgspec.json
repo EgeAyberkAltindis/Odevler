@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ayber\\OneDrive\\Masaüstü\\BilgeAdam\\#ODEV#\\9-Proje\\BılgısayarProject\\DAL\\DAL.csproj": {}
+    "C:\\Users\\ayberk.altindis\\Desktop\\ODEV\\9-Proje\\BılgısayarProject\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ayber\\OneDrive\\Masaüstü\\BilgeAdam\\#ODEV#\\9-Proje\\BılgısayarProject\\DAL\\DAL.csproj": {
+    "C:\\Users\\ayberk.altindis\\Desktop\\ODEV\\9-Proje\\BılgısayarProject\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\BilgeAdam\\#ODEV#\\9-Proje\\BılgısayarProject\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\ayberk.altindis\\Desktop\\ODEV\\9-Proje\\BılgısayarProject\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\BilgeAdam\\#ODEV#\\9-Proje\\BılgısayarProject\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\ayber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\BilgeAdam\\#ODEV#\\9-Proje\\BılgısayarProject\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\ayberk.altindis\\Desktop\\ODEV\\9-Proje\\BılgısayarProject\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\ayberk.altindis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ayberk.altindis\\Desktop\\ODEV\\9-Proje\\BılgısayarProject\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ayber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ayberk.altindis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ayber\\OneDrive\\Masaüstü\\BilgeAdam\\#ODEV#\\9-Proje\\BılgısayarProject\\MODEL\\MODEL.csproj": {
-                "projectPath": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\BilgeAdam\\#ODEV#\\9-Proje\\BılgısayarProject\\MODEL\\MODEL.csproj"
+              "C:\\Users\\ayberk.altindis\\Desktop\\ODEV\\9-Proje\\BılgısayarProject\\MODEL\\MODEL.csproj": {
+                "projectPath": "C:\\Users\\ayberk.altindis\\Desktop\\ODEV\\9-Proje\\BılgısayarProject\\MODEL\\MODEL.csproj"
               }
             }
           }
@@ -43,11 +43,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -85,24 +80,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ayber\\OneDrive\\Masaüstü\\BilgeAdam\\#ODEV#\\9-Proje\\BılgısayarProject\\MODEL\\MODEL.csproj": {
+    "C:\\Users\\ayberk.altindis\\Desktop\\ODEV\\9-Proje\\BılgısayarProject\\MODEL\\MODEL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\BilgeAdam\\#ODEV#\\9-Proje\\BılgısayarProject\\MODEL\\MODEL.csproj",
+        "projectUniqueName": "C:\\Users\\ayberk.altindis\\Desktop\\ODEV\\9-Proje\\BılgısayarProject\\MODEL\\MODEL.csproj",
         "projectName": "MODEL",
-        "projectPath": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\BilgeAdam\\#ODEV#\\9-Proje\\BılgısayarProject\\MODEL\\MODEL.csproj",
-        "packagesPath": "C:\\Users\\ayber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayber\\OneDrive\\Masaüstü\\BilgeAdam\\#ODEV#\\9-Proje\\BılgısayarProject\\MODEL\\obj\\",
+        "projectPath": "C:\\Users\\ayberk.altindis\\Desktop\\ODEV\\9-Proje\\BılgısayarProject\\MODEL\\MODEL.csproj",
+        "packagesPath": "C:\\Users\\ayberk.altindis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ayberk.altindis\\Desktop\\ODEV\\9-Proje\\BılgısayarProject\\MODEL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ayber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ayberk.altindis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -124,11 +119,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -156,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
