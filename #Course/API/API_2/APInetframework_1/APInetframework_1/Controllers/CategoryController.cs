@@ -71,8 +71,21 @@ namespace APInetframework_1.Controllers
             };
             _db.Categories.Add(c);
             _db.SaveChanges();
-            return ListCategories() ;
+            return ListCategories();
+        }
+
+
+        [HttpGet]
+        public List<CategoryResponseModel> SearchCategory(string item)
+        {
+            return _db.Categories.Where(x => x.CategoryName.Contains(item)).Select(x => new CategoryResponseModel
+            {
+                CategoryName = x.CategoryName,
+                Description = x.Description,
+                Id = x.CategoryID
+            }).ToList();
+
         }
 
     }
-}   
+}

@@ -30,6 +30,10 @@
                 <input type="button" id="btnUpdate" class="btn btn-warning" value="Kategori Güncelle" />
 
                 <input type="button" id="btnDelete" class="btn btn-danger" value="Kategori Sil" />
+
+                <br />
+
+                <input type="text" class="form-control" id="txtSearch" />
             </div>
 
             <div class="col-6">
@@ -64,15 +68,21 @@
             //JavaScript'te her eylem bir fonksiyondur...Anlık eylemler ise Anonymus Function'lar olarak acılır...
             ControlHeader();
             $.each(dataList, function (key, data) {
-                $("#tab1").append("<tr> <td>" + data.Id + " </td> <td>" + data.CategoryName + " </td> <td>" + data.Description + " </td> <td> <button class= 'btn btn-warning value = 'update'> Güncelle </button> </td>  <td> <button class= 'btn btn-danger value = 'delete'> Sil </button>   <td> <button class= 'btn btn-primary value = 'select'> Sec </button> </td> </td> </tr>")
+                $("#tab1").append("<tr> <td> " + data.Id + "  </td> <td> " + data.CategoryName + " </td> <td>" + data.Description + " </td> <td> <button data-id='" + data.Id + "' class='btn btn-warning' value='update'> Güncelle </button> </td> <td> <button data-id='" + data.Id + "'  class='btn btn-danger' value='delete'>Sil </button> </td> <td> <button data-id='" + data.Id + "' class='btn btn-primary' value='select'> Sec </button> </td>     </tr>");
             })
         }
         // bu ayzıcağımız API ' ya gidip tekir veri aldığımız zaman (GetById seklinde ) elimeze geçen o veriyi buradaki tablomuzun bodysine entegre etmekle görevli
 
         function BringData(data) {
             ControlHeader();
-            $("#tab1").append("<tr> <td>" + data.Id + " </td> <td>" + data.CategoryName + " </td> <td>" + data.Description + " </td>  <td> <button class= 'btn btn-warning value = 'update'> Güncelle </button> </td>  <td> <button class= 'btn btn-danger value = 'delete'> Sil </button>   <td> <button class= 'btn btn-primary value = 'select'> Sec </button> </td>  </tr>")
+            $("#tab1").append("<tr> <td> " + data.Id + "  </td> <td> " + data.CategoryName + " </td> <td>" + data.Description + " </td> <td> <button data-id='" + data.Id + "' class='btn btn-warning' value='update'> Güncelle </button> </td> <td> <button data-id='" + data.Id + "'  class='btn btn-danger' value='delete'>Sil </button> </td> <td> <button data-id='" + data.Id + "' class='btn btn-primary' value='select'> Sec </button> </td>  </tr>");
 
+        }
+
+        function FetchData(data) {
+            $("#txtId").val(data.Id);
+            $("#txtName").val(data.CategoryName);
+            $("#txtDesc").val(data.Description);
         }
 
         //API Request ...
@@ -108,8 +118,10 @@
                 $.ajax({
                     url: "http://localhost:63691/api/Category/AddCategory",
                     type: "Post",
-                    data: { CategoryName: $("#txtName").val(), Description: $("#txtDesc").val() }
-
+                    data: { CategoryName: $("#txtName").val(), Description: $("#txtDesc").val() },
+                    success: function (kategoriler) {
+                        BringDataList(kategoriler);
+                    }
                 })
             })
 
@@ -123,6 +135,8 @@
                     }
                 })
             })
+
+
             $("#btnDelete").click(function () {
                 $.ajax({
                     url: "http://localhost:63691/api/Category/DeleteCategory/" + $("#txtId").val(),
@@ -130,13 +144,66 @@
                     success: function (kategoriler) {
                         BringDataList(kategoriler);
                     }
-                   
-                    })
+
+                })
             })
 
+
+            $("#txtSearch").keyup(function () {
+                $.ajax({
+                    url: "http://localhost:63691/api/Category/SearchCategory",
+                    type: "Get",
+                    data: { item: $(this).val() },
+                    success: function (kategoriler) {
+                        BringDataList(kategoriler);
+                    }
+                })
+            })
+
+            // javascript event hadling - Jquery'De on metodu olucaksak evetnlerin ifadwesini entegre etmek için kullanılır
+            $("#tab1").on("click", "[value=update]", function () {
+                $.ajax({
+                    url: "http://localhost:63691/api/Category/UpdatedCategory",
+                    type: "Put",
+                    data: { id: $(this).attr("data-id"), CategoryName: $("#txtName").val(), Description: $("#txtDesc").val() },
+                    success: function (kategoriler) {
+                        BringDataList(kategoriler);
+                    }
+                })
+            })
+
+
+            $("#tab1").on("click", "[value=delete]", function () {
+                $.ajax({
+                    url: "http://localhost:63691/api/Category/DeleteCategory/" + $(this).attr("data-id"),
+                    type: "Delete",
+                    success: function (kategoriler) {
+                        BringDataList(kategoriler);
+                    }
+
+                })
+            })
+
+
+
+
+
+
+
+
+            $("#tab1").on("click", "[value=select]", function () {
+                $.ajax({
+                    url: "http://localhost:63691/api/Category/GetCategory/",
+                    data: { id: $(this).attr("data-id") },
+                    type: "Get",
+                    success: function (kategori) {
+                        FetchData(kategori);
+                    }
+                })
+            })
+
+
         })
-
-
     </script>
 </body>
 </html>
